@@ -1,5 +1,9 @@
 # V2Ray4Fly.io
 
+
+
+# 封号警告！！！2022.04.27收到了Fly.io的邮件警告，限时24h删除相关的代理服务，各位自重！
+
 ## 概述
 通过 GitHub Actions 自动在 [Fly.io](https://fly.io/) 上部署 [V2Ray](https://www.v2fly.org/)
 
